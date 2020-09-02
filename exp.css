@@ -1,0 +1,159 @@
+.row{
+    width: 100%;
+    margin:10px
+}
+.container{
+    width: 100%;
+    margin-top:30px;
+
+}
+.card-group{
+    border:1px solid black;
+    border-radius: 15px;
+    margin:20px 0px 20px 0px;
+}
+.card-img-top{
+    height: 350px;
+}
+.card-top{
+    margin:20px;
+    display: block;
+}
+.card-title{
+    margin-top: 250px;
+    color: navajowhite;
+    font-size: 42px;
+    
+
+}
+.card-text{
+    margin-bottom: 0;
+    font-weight: bold;
+    margin-top:-15px;
+   
+}
+.card-img-overlay{
+    margin-left: 5px;
+    font-family: 'Open Sans Condensed', sans-serif;
+    height: 400px;
+}
+.small-text-1{
+    color: black;
+    margin-top: 5px;
+    font-size: medium;
+    letter-spacing: 0.7px;
+    
+}
+.heading-1{
+    text-align: initial;
+    font-weight: 400;
+    font-size: 30px;
+}
+.card-text-2{
+    font-weight: lighter;
+    color: white;
+}
+.card-1{
+    margin-top: 30px;
+}
+
+
+div.card-2{
+    max-width: 540px;
+    max-height: 280px;
+}
+.card-text-3{
+    margin-top: 20px;
+    color: black;
+    font-size: 15px;
+    font-weight: lighter;
+    
+}
+.heading-2{
+    text-align: initial;
+    font-weight: 400;
+    font-size: 30px;
+    color: black;
+}
+div.col-md-4{
+    margin: 0px;
+    padding: 0px;
+}
+.card-img-side{
+    height: 280px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    max-width: 180px;
+}
+.card-2{
+    margin-top: 0px;
+}
+.heading-3{
+    text-align: initial;
+    font-weight: 400;
+    font-size: 30px;
+    color:black;
+
+}
+.heading-4{
+    text-align: initial;
+    font-weight: 400;
+    font-size: 30px;
+    color: white;
+}
+.card-img-mid{
+    height: 250px;
+  
+}
+form{
+    border: 1px solid black;
+    border-radius:15px;
+    padding: 15px;
+
+}
+legend{
+    background: #007bff;
+    padding: 5px;
+    border: 0.5x solid black;
+    border-radius: 10px;
+    color: white;
+}
+.btn{
+    background: #007bff;
+    color:white;
+}
+.col-form-label{
+    font-weight: 400;
+    font-size: 20px;
+}
+footer{
+    background: lightblue;
+    margin: 25px;
+}
+.fa {
+    font-size: 35px;
+    width: 20px;
+    padding-top: 2px;
+    text-align: center;
+    text-decoration: none;
+    border: 0.5px solid black;
+    color: white;
+    background: #3B5998;
+}
+.fa:hover{
+    opacity: 0.8;
+}
+.fa-instagram{
+    background: #cf0563;
+    color: white;
+}
+.fa-linkedin{
+    background: #007bb5;
+    color: white;
+}
+footer>h5{
+    margin-bottom: 2px;
+}
+.contact{
+    margin-bottom: 2px;
+}
